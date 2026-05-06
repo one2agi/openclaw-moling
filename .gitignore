@@ -1,0 +1,19 @@
+# Shared symlinks (backed up in openclaw-main)
+research
+projects
+
+# Dependencies
+node_modules/
+
+# Sessions
+sessions/
+
+# Learnings cache
+.learnings/
+
+# Output artifacts (optional - comment out if you want to backup output files)
+# output/
+
+# System files
+.DS_Store
+*.tmp
